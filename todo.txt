@@ -1,0 +1,4 @@
+subclass Mumble and override run() to also handle connection errors
+automatically create certificates with pyopenssl
+add "opus" library to system-level dependency list
+add installation instructions through venv on README
